@@ -6,6 +6,7 @@
 </p>
 
 ##个人信息
+
 ![](https://genshin-card.yourworld.fun/detail/rand/78721390.png)
 
 
