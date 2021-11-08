@@ -1,5 +1,5 @@
+### 计数君
 <img src="https://img.yourworld.fun/get/@github">
-<img src="https://tva4.sinaimg.cn/large/007eFxodgy1gw8569yl1hj30sg0sgn7m.jpg">
 
 <h3 align="center">🎉WhiteDiamond 永远喜欢志摩凛酱!</h3>
 
