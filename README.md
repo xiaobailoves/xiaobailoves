@@ -11,6 +11,10 @@
 ### Genshin Impact
   
 ![](https://genshin-card.yourworld.fun/detail/rand/78721390.png)
+   
+### Chat Room
+
+![](https://chat.yourworld.fun/room/@github/svg?width=750&height=360&limit=20&theme=light&fontSize=13&title=White_Diamond@github.com%20)
 
 
 
