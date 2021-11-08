@@ -14,7 +14,7 @@
    
 ### Chat Room
 
-![](https://chat.yourworld.fun/room/@github/svg?width=750&height=360&limit=20&theme=light&fontSize=13&title=White_Diamond@github.com%20)
+[![](https://chat.yourworld.fun/room/@github/svg?width=750&height=360&limit=20&theme=light&fontSize=13&title=White_Diamond@github.com%20)](https://chat.yourworld.com/room/@github?title=Github留言板)
 
 
 
