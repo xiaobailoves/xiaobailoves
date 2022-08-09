@@ -11,7 +11,7 @@
 
 ### Genshin Impact
   
-![](https://genshin-card.yourworld.fun/detail/rand/78721390.png)
+![](https://genshin-card.yourworld.fun/detail/rand/190461177.png)
    
 ### Chat Room
 
