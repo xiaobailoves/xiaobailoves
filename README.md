@@ -1,6 +1,3 @@
-### 计数君
-![](https://img.yourworld.fun/get/@github)
-
 <div align="center">
    <img src="https://tva3.sinaimg.cn/large/007u9AIjgy1h5l9pk897dj30rs0rsajm.jpg" height="256px" width="256px">
 </div>
@@ -11,6 +8,10 @@
    <a target="_blank" href="https://afdian.net/@YourWorld">爱发电</a>  •
    <a target="_blank" href="https://twitter.com/Baizuanyoyo">Twitter
 </p>
+
+### 计数君 [已访问次数]
+
+![](https://img.yourworld.fun/get/@github)
 
 ### Genshin Impact
   
