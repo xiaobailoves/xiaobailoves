@@ -11,7 +11,9 @@
 
 ### 计数君 [已访问次数]
 
-![](https://img.yourworld.fun/get/@github)
+<div align="center">
+   <img src="https://img.yourworld.fun/get/@github">
+</div>
 
 ### Genshin Impact
   
