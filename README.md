@@ -2,7 +2,7 @@
 ![](https://img.yourworld.fun/get/@github)
 
 <div align="center">
-   <img src="https://tva3.sinaimg.cn/large/007u9AIjgy1h5l9pk897dj30rs0rsajm.jpg" height="128px" width="128px">
+   <img src="https://tva3.sinaimg.cn/large/007u9AIjgy1h5l9pk897dj30rs0rsajm.jpg" height="256px" width="256px">
 </div>
 <h3 align="center">🎉WhiteDiamond 永远喜欢志摩凛酱!</h3>
 
